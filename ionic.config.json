@@ -1,0 +1,8 @@
+{
+  "name": "musit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2cf40f7b"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "musit",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
